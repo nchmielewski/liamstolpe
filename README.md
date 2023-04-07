@@ -1,8 +1,10 @@
-<h1 align="center">__greeting__</h1>
-<p align="left"> <img src="__github link__"__ alt="liamstolpe" /> </p>
+<h1 align="center">Hello 👋 My name is Liam Stolpe</h1>
+<p align="left"> <img src="https://github.com/liamstolpe"__ alt="liamstolpe" /> </p>
 
 
-- 🌱 Info
+- 🌱 TODO Who am I
+
+- 📜 TODO Add degrees
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
