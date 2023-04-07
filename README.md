@@ -1,5 +1,5 @@
 <h1 align="center">hey hi how are ya</h1>
-<p align="left"> <img src="[__github link__](https://github.com/liamstolpe/liamstolpe)"__ alt="liamstolpe" /> </p>
+<p align="left"> <img src="https://github.com/liamstolpe"__ alt="liamstolpe" /> </p>
 
 
 - 🌱 Info
